@@ -1,0 +1,14 @@
+,SupplierID,SupplierName,SupplierCategoryID,PrimaryContactPersonID,AlternateContactPersonID,DeliveryMethodID,DeliveryCityID,PostalCityID,SupplierReference,BankAccountName,BankAccountBranch,BankAccountCode,BankAccountNumber,BankInternationalCode,PaymentDays,PhoneNumber,FaxNumber,WebsiteURL
+0,1,A Datum Corporation,2,21,22,7.0,38171,38171,AA20384,A Datum Corporation,Woodgrove Bank Zionsville,356981,8575824136,25986,14,(847) 555-0100,(847) 555-0101,http://www.adatum.com
+1,2,"Contoso, Ltd.",2,23,24,9.0,13870,13870,B2084020,Contoso Ltd,Woodgrove Bank Greenbank,358698,4587965215,25868,7,(360) 555-0100,(360) 555-0101,http://www.contoso.com
+2,3,Consolidated Messenger,6,25,26,,30378,30378,209340283,Consolidated Messenger,Woodgrove Bank San Francisco,354269,3254872158,45698,30,(415) 555-0100,(415) 555-0101,http://www.consolidatedmessenger.com
+3,4,"Fabrikam, Inc.",4,27,28,7.0,18557,18557,293092,Fabrikam Inc,Woodgrove Bank Lakeview Heights,789568,4125863879,12546,30,(203) 555-0104,(203) 555-0108,http://www.fabrikam.com
+4,5,Graphic Design Institute,2,29,30,10.0,18634,18634,8803922,Graphic Design Institute,Woodgrove Bank Lanagan,563215,1025869354,32587,14,(406) 555-0105,(406) 555-0106,http://www.graphicdesigninstitute.com
+5,6,Humongous Insurance,9,31,32,,18656,18656,82420938,Humongous Insurance,Woodgrove Bank Lancing,325001,2569874521,32569,14,(423) 555-0105,(423) 555-0100,http://www.humongousinsurance.com
+6,7,"Litware, Inc.",5,33,34,2.0,22602,22602,BC0280982,Litware Inc,Woodgrove Bank Mokelumne Hill,358769,3256896325,21445,30,(209) 555-0108,(209) 555-0104,http://www.litwareinc.com
+7,8,Lucerne Publishing,2,35,36,10.0,17161,17161,JQ082304802,Lucerne Publishing,Woodgrove Bank Jonesborough,654789,3254123658,21569,30,(423) 555-0103,(423) 555-0105,http://www.lucernepublishing.com
+8,9,Nod Publishers,2,37,38,10.0,10346,10346,GL08029802,Nod Publishers,Woodgrove Bank Elizabeth City,365985,2021545878,48758,7,(252) 555-0100,(252) 555-0101,http://www.nodpublishers.com
+9,10,Northwind Electric Cars,3,39,40,8.0,7899,7899,ML0300202,Northwind Electric Cars,Woodgrove Bank Crandon Lakes,325447,3258786987,36214,30,(201) 555-0105,(201) 555-0104,http://www.northwindelectriccars.com
+10,11,Trey Research,8,41,42,,17277,17277,82304822,Trey Research,Woodgrove Bank Kadoka,658968,1254785321,56958,7,(605) 555-0103,(605) 555-0101,http://www.treyresearch.net
+11,12,The Phone Company,2,43,44,7.0,17346,17346,237408032,The Phone Company,Woodgrove Bank Karlstad,214568,7896236589,25478,30,(218) 555-0105,(218) 555-0105,http://www.thephone-company.com
+12,13,Woodgrove Bank,7,45,46,,30378,30378,28034202,Woodgrove Bank,Woodgrove Bank San Francisco,325698,2147825698,65893,7,(415) 555-0103,(415) 555-0107,http://www.woodgrovebank.com
